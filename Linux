@@ -1,0 +1,12 @@
+## Objetivo
+Familiarizarse con comandos básicos en Linux: navegación, permisos y manipulación de archivos.
+
+## Comandos a practicar
+- `ls`, `cd`, `pwd`, `mkdir`, `touch`
+- `chmod`, `chown`, `cat`, `nano`
+- `ifconfig`, `ping`, `netstat`
+
+## Actividades sugeridas
+- Crear una carpeta y varios archivos
+- Cambiar los permisos de lectura/escritura
+- Ver la IP local
