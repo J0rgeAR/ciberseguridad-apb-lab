@@ -28,4 +28,4 @@ Este proyecto no tiene fines maliciosos. Todas las pruebas se hacen en máquinas
 ---
 
 ### 📬 Contacto
-Podés seguirme o escribirme vía [LinkedIn](https://www.linkedin.com/in/tuusuario).
+Podés seguirme o escribirme vía [LinkedIn](https://www.linkedin.com/in/jorge-a-arca/).
